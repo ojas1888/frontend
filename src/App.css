@@ -113,13 +113,13 @@ button:hover {
 }
 
 .img2{
-  height: 550px;
-  width: 350px;
+  height: 600px;
+  width: 400px;
   border-radius: 3px;
 }
 
 .card{
-  height: 550px;
+  height:600px;
   margin: 50px;
   box-shadow: 5px 5px 20px black;
   overflow: hidden;
@@ -127,7 +127,7 @@ button:hover {
 
 .intro{
   height: 70px;
-  width: 350px;
+  width: 400px;
   padding: 6px;
   box-sizing: border-box;
   position: absolute;
@@ -135,6 +135,9 @@ button:hover {
   bottom:240px;
   color: white;
   transition: 0.5s;
+  line-height: 15px;
+  font-weight: 800;
+  font-size: 20px;
 }
 
 h1{
@@ -143,14 +146,14 @@ h1{
 }
 
 p{
-  font-size: 11px;
+  font-size: 12px;
   margin: 20px;
   visibility: hidden;
   opacity:0;
 }
 
 span{
-  font-weight: bold;
+  font-weight: 1000;
 }
 
 .card:hover{
